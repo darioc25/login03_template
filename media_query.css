@@ -1,0 +1,13 @@
+@media screen and (max-width: 1279px){
+   .main-section{
+      display: none;
+   }
+
+   .login-section{
+      width: 100%;
+   }
+
+   .login-section-main-title{
+      display: block;
+   }
+}
